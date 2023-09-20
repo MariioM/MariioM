@@ -1,4 +1,4 @@
-### Hi there! Im Mario Martínez 👋
+### Hi there! I'm Mario Martínez 👋
 
 <!--
 **MariioM/MariioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
