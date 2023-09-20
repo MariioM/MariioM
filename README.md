@@ -1,1 +1,1 @@
-<h1 align = "center"> Hi There! I'm Mario Martínez </h1>
+<h1 align = "center"> <b> Hi There! I'm Mario Martínez <b></b></h1>
