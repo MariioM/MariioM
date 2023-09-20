@@ -2,4 +2,4 @@
 <div align= "center">
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473mqgyxxnhtd2e5nodwwvpstqls5zb3oy2fduk2d8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-<h2><b> </About me> </b></h2>
+<h2><b> About me </b></h2>
