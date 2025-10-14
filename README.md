@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/s6aT4pO)
+<blockquote class="imgur-embed-pub" lang="en" data-id="s6aT4pO"><a href="https://imgur.com/s6aT4pO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 # 👋 Hi, I'm Mario — Computer Engineer | AI Engineer 🚀
