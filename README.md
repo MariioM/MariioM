@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/8zGfVvD.png" alt="Mario | AI & Space Engineer" width="100%">
-</p>
+[Imgur](https://imgur.com/s6aT4pO)
 
 
 # 👋 Hi, I'm Mario — Computer Engineer | AI Engineer 🚀
