@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/8zGfVvD.png" alt="Mario | AI & Space Engineer" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Mario — Computer Engineer | AI Engineer 🚀
 
 > 🧠 Artificial Intelligence • 🛰️ Space Interested • 🧩 Embedded & Edge Computing  
