@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Q0N6W7.png" alt="Space Header" width="100%" />
+  <img src="https://imgur.com/a/59Sq7eX" alt="Space Header" width="100%" />
 </p>
 
 # 🚀 Hi, I'm Mario (@MariioM)
@@ -59,8 +59,4 @@ Focusing on next-generation generative models and efficient architectures.
   <a href="mailto:vitutiamartinez@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Ad Astra Per Aspera"</i>
 </p>
