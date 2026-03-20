@@ -58,10 +58,10 @@ Focusing on next-generation generative models and efficient architectures.
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="TU_LINK_DE_LINKEDIN_AQUI">
+  <a href="www.linkedin.com/in/mario-martínez-vitutia-21586527a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:TU_EMAIL_AQUI">
+  <a href="mailto:vitutiamartinez@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
