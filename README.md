@@ -1,6 +1,7 @@
 
- [Imgur](https://imgur.com/e5Ai406)
-
+<p align="center">
+  <img src="https://i.imgur.com/e5Ai406.jpeg" alt="MariioM Space Header" width="100%" />
+</p>
 # 🚀 Hi, I'm Mario (@MariioM)
 
 <p align="center">
