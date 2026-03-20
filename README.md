@@ -1,6 +1,5 @@
-<p align="center">
+
  [Imgur](https://imgur.com/e5Ai406)
-</p>
 
 # 🚀 Hi, I'm Mario (@MariioM)
 
