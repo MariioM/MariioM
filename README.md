@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/59Sq7eX" alt="Space Header" width="100%" />
+  <img src="[https://imgur.com/a/59Sq7eX](https://imgur.com/e5Ai406)" alt="Space Header" width="100%" />
 </p>
 
 # 🚀 Hi, I'm Mario (@MariioM)
